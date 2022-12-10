@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Sebi573
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Java, Python.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
